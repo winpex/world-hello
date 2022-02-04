@@ -1,0 +1,24 @@
+
+body{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.hola {
+  bottom: 15px;
+  border-radius: 15px;
+  
+}
+
+h1{
+  font-weight: 40px;
+}
+p{
+  background-color: orangered;
+  border-radius: 15px;
+  font-size: 60px;
+  /* color: rgb(247, 107, 15); */
+  padding: 40px;
+}
